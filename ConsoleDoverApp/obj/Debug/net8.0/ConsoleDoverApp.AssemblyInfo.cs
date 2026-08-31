@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleDoverApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e68da6890569a140c4f960b813e56287b54d0b33")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleDoverApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleDoverApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
