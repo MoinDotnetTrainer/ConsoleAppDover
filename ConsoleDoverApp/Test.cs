@@ -11,5 +11,9 @@ namespace ConsoleDoverApp
         public void M1() {
             Console.WriteLine("M1");
         }
+        public void M2()
+        {
+            Console.WriteLine("M1");
+        }
     }
 }
