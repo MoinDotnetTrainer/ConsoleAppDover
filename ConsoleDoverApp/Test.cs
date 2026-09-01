@@ -8,5 +8,8 @@ namespace ConsoleDoverApp
 {
     internal class Test
     {
+        public void M1() {
+            Console.WriteLine("M1");
+        }
     }
 }
