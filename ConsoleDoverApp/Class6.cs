@@ -11,6 +11,4 @@ namespace ConsoleDoverApp
         // some code
     }
 }
-//fghgj
-//fghfh
-//fghf
+

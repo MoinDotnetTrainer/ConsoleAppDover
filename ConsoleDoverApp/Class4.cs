@@ -8,5 +8,6 @@ namespace ConsoleDoverApp
 {
     internal class Class4
     {
+        // new class to remove last commit
     }
 }

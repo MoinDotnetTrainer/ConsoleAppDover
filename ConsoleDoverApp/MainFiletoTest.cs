@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleDoverApp
 {
-    internal class Restore
+    internal class MainFiletoTest
     {
-        //some code 
     }
 }
